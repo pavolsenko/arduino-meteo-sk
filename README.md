@@ -6,8 +6,8 @@
 [01 Náš prvý program](01.md)
 [02 Pridanie tlačítka a debouncing](02.md)
 [03 Zapojenie displeja](03.md)
-[04 Pripojenie hodinového modulu RTC](04.md)
-[05 Zapojenie modulu na meranie teploty](05.md)
+[04 Zapojenie modulu na meranie teploty](04.md)
+[05 Pripojenie hodinového modulu RTC](05.md)
 [06 Pripojenie k wifi](06.md)
 
 ## Porty a zapojenie modulu D1
