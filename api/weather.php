@@ -7,4 +7,4 @@ $response = curl_exec($curl);
 curl_close($curl);
 $data = json_decode($response);
 
-echo '#' . ceil($data->current->temp) . ',' . $data->current->weather[0]->main . ',' . ceil($data->daily[0]->temp->day) . ',' . $data->daily[0]->weather[0]->main;
+echo '#' . ceil($data->current->temp) . '°C,' . $data->current->weather[0]->main . ',' . ceil($data->daily[0]->temp->day) . '°C,' . $data->daily[0]->weather[0]->main;
