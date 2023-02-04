@@ -9,6 +9,7 @@
 - [04 Zapojenie modulu na meranie teploty](lessons/04/04.md)
 - [05 Pripojenie hodinového modulu RTC](lessons/05/05.md)
 - [06 Pripojenie k wifi](lessons/06/06.md)
+- [07 Výsledný program](lessons/07/07.md)
 
 ## Porty a zapojenie modulu D1
 
